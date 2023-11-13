@@ -1,0 +1,18 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+}
+
+.recipe-catalog {
+    display:flex;
+    flex-direction:r
+}
+
+.recipe-catalog > div {
+    font-weight:bolder;
+    display:flex;
+    flex-direction:column;
+    width:300px;
+    height:auto;
+}
+
