@@ -3,6 +3,12 @@
     color:black;
 }
 
+#title {
+    background-color:cyan;
+    color:darkcyan;
+    border-radius:7px;
+    text-align:center;
+}
 .recipe-catalog {
     display:flex;
     flex-direction:r
